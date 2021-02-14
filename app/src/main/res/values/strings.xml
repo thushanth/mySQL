@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">mySQL</string>
+    <string name="averageList">Average of all assignments: </string>
+    <string name="courseTitle">Course Title</string>
+    <string name="courseCode">Course Code</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="saveBtn">Save</string>
+    <string name="success">Registered course</string>
+    <string name="fail">Fail to register course</string>
+    <string name="AverageView">Assignment Average: NA </string>
+    <string name="floatTODOMain">Add courses</string>
 </resources>
